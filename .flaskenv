@@ -1,0 +1,2 @@
+FLASK_APP=mongotemplate
+FLASK_ENV=development
